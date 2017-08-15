@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.listItem {
+	margin: 0px 150px 0px 150px;
+	background-color: #E1F5FE;
+}
+
+.form {
+	margin: 0px 20px 0px 20px;
+}
+
+.input {
+	float: right;
+	margin-right: 30px;
+}
+
+.navBar {
+	background-color: #81D4FA;
+}
+
+.metaPanel {
+	margin: 0px 150px 0px 150px;
+}
+
+.ahjMainInfo {
+	margin: 0px 150px 0px 150px;
+}
